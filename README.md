@@ -56,7 +56,7 @@ My Chinese name is <strong>Yipeng Li(黎逸鹏)</strong>. You can also call me b
 <h3>Project</h3>
 <ol>
   <li>
-    Project Name:<b>AIMechSocket Remote operation library</b>
+    Project Name:<b>AIMSocket Remote operation library</b>
     <dl>
       <dd>Private Project<br>Task: To create a teleoperation library supported by multiple programming languages that is simple to control</dd>
     </dl>
