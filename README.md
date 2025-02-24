@@ -39,7 +39,7 @@ My Chinese name is <strong>Yipeng Li(黎逸鹏)</strong>. You can also call me b
 </ol>
 <h3>Papers published during the undergraduate period</h3>
 <ol>
-  <li> Co-first Author - <a href="https://link.springer.com/chapter/10.1007/978-981-96-0777-8_22"><em>A novel moving strategy of teleoperating manipulation via exo-gloves</em></a>  --<b>[The paper is not yet available online]</b><br> --2024 International Conference on Intelligent Robotics and Applications (ICIRA) </li>
+  <li> Co-first Author - <a href="https://link.springer.com/chapter/10.1007/978-981-96-0777-8_22"><em>A novel moving strategy of teleoperating manipulation via exo-gloves</em></a>  <br> --2024 International Conference on Intelligent Robotics and Applications (ICIRA) </li>
   <li> Co-first Author - <a href="https://ieeexplore.ieee.org/document/10354878/authors#full-text-header"><em>A Novel Mobile 3D Printing Robot Incorporating a Planar Five-bar Mechanism</em></a> <br> --2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)</li>
   
 </ol>
