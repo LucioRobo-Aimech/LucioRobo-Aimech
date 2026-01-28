@@ -1,19 +1,34 @@
 ## Hey! Hello! Welcome to my homepage! 👋
 My Chinese name is <strong>Yipeng Li(黎逸鹏)</strong>. You can also call me by my English name:<strong>Lucio</strong>.<br>
-❗<strong>I am currently looking for an internship position related to robot engineering or robot algorithm.</strong>❗
+<strong>Keywords:</strong> Cognitive Robotics Algorithm; Robotics Deep Learning<br>
+❗<strong>I am currently looking for an internship position related to humanoid cognitive algorithms or robot algorithms.</strong>❗
 <h2>Basic personal information</h2>
-<li>🎓Undergraduate institution: Shenzhen Technology University (September 2021 - July 2025)</li>
 
-<li>📚Undergraduate major: Electronic Science and Technology</li>
+<li>🎓Postgraduate: Shenzhen University(September 2025 - Now) ---- Mechanical Engineering (Robotics Engineering and Applications)</li>
+
+<li>🎓Undergraduate: Shenzhen Technology University (September 2021 - July 2025) ---- Electronic Science and Technology</li>
 
 <li>🔍Affiliated laboratory: SZTU-AIMech Lab</li>
 
+<li>💡Personal research group: LightPoint Research</li>
+
 <li>✉️Email: Lucio.YipengLi@outlook.com</li>
+
+<h2>Postgraduate academic performance(Currently studying)</h2>
+
+<strong>GPA</strong>: <strong>3.36</strong> / 4.0 
+
+<strong>Majored courses</strong>: Advanced Engineering Mathematics (96.5), Digital Signal Analysis and Processing (93).
+
+<strong>Undergraduate scholarships</strong>:
+<ol>
+  <li>🥇First Prize of Academic Scholarship for the 2025 Master's Degree Class<br>2025级硕士学业奖学金一等奖</li>
+</ol>
 
 <h2>Undergraduate academic performance</h2>
 
 <strong>GPA</strong>: <strong>3.5</strong> / 4.5 ; 
-<strong>Major ranking</strong>: 20 / 124
+<strong>Major ranking</strong>: The top 16%
 
 <strong>Majored courses</strong>: Fundamentals of Programming A (100), Advanced Language Programming (97), College Computer A (91), Principles and Techniques of Automatic Control (87), Principles and Interface Techniques of Single-chip Microcomputer (84) .
 
@@ -56,33 +71,27 @@ My Chinese name is <strong>Yipeng Li(黎逸鹏)</strong>. You can also call me b
 <h3>Project</h3>
 <ol>
   <li>
-    Project Name:<a href="https://github.com/LucioRobo-Aimech/AIMechSocket-Remote-operation-library"> <b>AIMSocket Remote operation library</b></a>
+    Project Name:<a href="https://github.com/LucioRobo-Aimech/visExo_Android"> <b>visExo_Android</b></a>
     <dl>
-      <dd>Private Project<br>Task: To create a teleoperation library supported by multiple programming languages that is simple to control</dd>
+      <dd>Open Project<br>Description: A software deployed on the Android platform can monitor the exoskeleton data in real time and send control instructions, mainly used for data collection.</dd>
+    </dl>
+  </li>
+  <li>
+    Project Name:<b>MultiTerrain_Exo_visual</b> 
+    <dl>
+      <dd>Temporary Private Project<br>Description: The multi-terrain visual lower limb assistive exoskeleton mainly uses visual judgment to determine the terrain and appropriately assist the hip with power.</dd>
     </dl>
   </li>
   <li>
     Project Name:<b>Color pepper harvester</b>  
     <dl>
-      <dd>Project responsibilities: requirement analysis, machine vision code engineering (identification of color pepper), process control code engineering<br>Participation in the event：the 11th National Undergraduate Mechanical Innovational Competition</dd>
+      <dd>Competitive Project<br>Project responsibilities: requirement analysis, machine vision code engineering (identification of color pepper), process control code engineering<br>Participation in the event：the 11th National Undergraduate Mechanical Innovational Competition</dd>
     </dl>
   </li>
   <li>
     Project Name:<b>Logistics handling robot</b>
     <dl>
-      <dd>Project responsibilities: <b>Leader</b>, machine vision code engineering (identification of marker), process control code engineering<br>Participation in the event：The 2023 Guangdong Provincial College Student Engineering Practice and Innovation Ability Competition</dd>
-    </dl>
-  </li>
-  <li>
-    Project Name:<b>Multimodal rescue robot</b>
-    <dl>
-      <dd>Project responsibilities: <b>Leader</b><br>Participation in the event：The 2023 China-U.S Young Maker Competition in Haikou Region</dd>
-    </dl>
-  </li>
-  <li>
-    Project Name:<b>Logistics handling robot</b>
-    <dl>
-      <dd>Project responsibilities:Motor code debugging (STM32), task flow control<br>Participation in the event：The 2022 Guangdong Provincial College Student Engineering Practice and Innovation Ability Competition</dd>
+      <dd>Competitive Project<br>Project responsibilities: <b>Leader</b>, machine vision code engineering (identification of marker), process control code engineering<br>Participation in the event：The 2023 Guangdong Provincial College Student Engineering Practice and Innovation Ability Competition</dd>
     </dl>
   </li>
 </ol>
