@@ -20,7 +20,7 @@ My Chinese name is <strong>Yipeng Li(黎逸鹏)</strong>. You can also call me b
 
 <strong>Majored courses</strong>: Advanced Engineering Mathematics (96.5), Digital Signal Analysis and Processing (93).
 
-<strong>Undergraduate scholarships</strong>:
+<strong>Postgraduate scholarships</strong>:
 <ol>
   <li>🥇First Prize of Academic Scholarship for the 2025 Master's Degree Class<br>2025级硕士学业奖学金一等奖</li>
 </ol>
